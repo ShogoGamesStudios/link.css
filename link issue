@@ -1,0 +1,20 @@
+<HTML>
+<head>
+<link rel="stylesheet" type="text/css" href="css/link.css">
+
+
+<!-- Details of current issue at hand and solution. -->
+<!-- The importance of this documentation will set tone for future style sheets -->
+<!-- The current issue resides within the <link.css> folder -->
+<!-- The problem is <style> </style> elements added to the style sheet -->
+<!-- The solution is to remove the elements from the style sheet -->
+<!-- <link> is the style name .css is current style set -->
+<!-- take special note to how you label .css it is case sensitive -->
+<!-- add in elements of the HTML exmaple body, div, extra -->
+<!-- functionality of the above code will work if elements removed -->
+<!-- If elements above remain the style will not display on screen -->
+<!-- Screen test open browser and test code -->
+<!-- Created by GM Spooky Tides CEO SGS -->
+<!-- End of report 10.28.16 -->
+</head>
+</HTML>
